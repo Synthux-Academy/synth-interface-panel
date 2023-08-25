@@ -1,5 +1,4 @@
 # synth-interface-panel
-For use guide check the Simple DIY Synth manual in the link below:
 
 ### USER MANUAL
 https://bit.ly/synthuxpanel
