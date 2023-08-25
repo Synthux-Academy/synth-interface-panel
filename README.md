@@ -1,5 +1,7 @@
 # synth-interface-panel
 
+https://www.youtube.com/watch?v=SU3fhliWxpM&t=2s&ab_channel=SynthuxAcademy
+
 ### USER MANUAL
 https://bit.ly/synthuxpanel
 
